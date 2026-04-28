@@ -65,7 +65,7 @@ blank.
 ### Option 3 — Clone the GitHub repo
 
 ```bash
-git clone https://github.com/<your-username>/ThaiPASS2026.git
+git clone https://github.com/krc2020/ThaiPASS2026.git
 cd ThaiPASS2026
 pip install numpy scipy matplotlib astropy pandas jupyter
 jupyter notebook agn_spectral_analysis.ipynb
@@ -74,7 +74,7 @@ jupyter notebook agn_spectral_analysis.ipynb
 ## Prerequisites
 
 - Algebra II / pre-calculus and basic statistics (mean, variance).
-- A web browser if running on Colab; Python 3.9+ if running locally.
+- A web browser is running on Colab; Python 3.9+ is running locally.
 - No prior Python or astronomy background required.
 
 ## Optional dependency
