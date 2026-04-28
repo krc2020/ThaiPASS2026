@@ -103,4 +103,4 @@ The main workbook does **not** need it — the example spectrum is bundled in
 ## License
 
 Educational use. Underlying SDSS data are public-domain; please cite the SDSS
-collaboration if you redistribute results.
+collaboration if you redistribute results. If the methodology is reproduced, please cite Chanchaiworawit & Sarajeni 2024 (https://ui.adsabs.harvard.edu/abs/2024ApJ...969..131C/abstract).
